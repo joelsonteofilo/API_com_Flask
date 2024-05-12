@@ -5,4 +5,9 @@ Produziremos rotas, integrar um banco de dados, implementar a autenticação do 
 
 Isso tudo criado com Flask
 
-![alt text](image.png)
+![alt text][def2]
+
+![alt text][def]
+
+[def]: image.png
+[def2]: image0.png
